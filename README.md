@@ -3,8 +3,6 @@
 A fully functional desktop typing speed test application built with Python and Tkinter.
 Designed and developed as a first-year B.Tech CSE (AI & ML) project at Baddi University.
 
-![App Screenshot](screenshot.png)
-
 ---
 
 ## Features
@@ -26,8 +24,6 @@ Designed and developed as a first-year B.Tech CSE (AI & ML) project at Baddi Uni
 ## Screenshots
 
 > Add your screenshot here after running the app
-
-![Typing Speed Test](screenshot.png)
 
 ---
 
